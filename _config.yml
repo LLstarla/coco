@@ -1,3 +1,4 @@
-name: Loralee Starla Gentry
-markdown: redcarpet
-baseurl: /jekyll
+---
+layout: default
+title: Loralee's Awesome Template
+---
