@@ -2,3 +2,8 @@
 body {
 background: teal;
 }
+
+img {
+  float: center;
+  max-width: 50%;
+}
