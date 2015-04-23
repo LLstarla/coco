@@ -1,4 +1,5 @@
 # Variables & Global
 name: Coco Repo
+baseurl: /coco
 
 # Server Configs
