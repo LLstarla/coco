@@ -4,12 +4,4 @@ layout: default
 
 	<h1>{{ site.name }}</h1>
 	
-	<img src="http://fc06.deviantart.net/fs70/f/2013/150/3/c/doctor_who___tardis_transparent_by_plavidemon-d676hh1.png">
-	
-	{% for post in site.posts %}
-	
-		<h3>{{ post.title }}</h3>
-		
-		<p>{{ post.content }}</p>
-	
-	{% endfor %}
+	{% include_relative _posts/1776-07-04-fourth.md %}
